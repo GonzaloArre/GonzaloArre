@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Gonzalo A.</h1>
+<h1 align="center">Hey!, I'm Gonzalo A.</h1>
 <h3 align="center">I'm a student from Argentina</p>
 
 <h2>Tools</h2>
