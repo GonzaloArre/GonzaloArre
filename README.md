@@ -4,7 +4,7 @@
 <h2>Tools</h2>
 <h4>backend<h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,c#" />
+  <img src="https://skillicons.dev/icons?i=py,c#,java" />
 </p>
 
 <h2>Contact</h2>
